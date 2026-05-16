@@ -1,6 +1,6 @@
 # deepRAG V0.1
 
-A simple local Wikipedia-backed RAG system using Ollama, ChromaDB, and a local LLM.
+A simple local Wikipedia-backed RAG system using Ollama, and ChromaDB
 
 ## What it does
 
